@@ -1,0 +1,16 @@
+# Core Strands SDK
+strands-agents
+strands-agents-tools
+
+# Data fetching & parsing
+requests
+beautifulsoup4
+python-dotenv
+
+# Financial data
+yfinance
+pandas
+
+# Optional chart rendering (post-processing of chart_spec)
+matplotlib
+python-dotenv
